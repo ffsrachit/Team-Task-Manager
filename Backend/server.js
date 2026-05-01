@@ -8,7 +8,7 @@ const app = express();
 // ✅ Allowed origins (local + production frontend)
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://team-task-manager-2-m299.onrender.com' // 🔁 replace after frontend deploy
+  'https://team-task-manager-2-m299.onrender.com' 
 ];
 
 
